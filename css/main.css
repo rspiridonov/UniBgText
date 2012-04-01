@@ -1,0 +1,23 @@
+body {
+  background: #2f4f4f;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+  }
+
+p {
+  margin: 0 0 10px;
+  }
+  p span {
+    background: rgba(0, 0, 0, 0.8);
+    color: #FFF;
+    display: inline-block;
+    padding: 3px 8px;
+    }
+
+.break-line {
+  display: none;
+  margin: 40px;
+  width: 500px;
+  }
